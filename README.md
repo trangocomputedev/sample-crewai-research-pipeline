@@ -1,5 +1,7 @@
 # Sample CrewAI Research Pipeline
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
 A multi-agent content research and publication pipeline built with [CrewAI](https://github.com/crewAIInc/crewAI). Serves as a canonical example of CrewAI features and as a test fixture for the AI Workflow Visualizer.
 
 ## Workflow
