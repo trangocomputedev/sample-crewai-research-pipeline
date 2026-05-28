@@ -82,3 +82,7 @@ outputs/               # Generated at runtime (gitignored)
 tests/
 main.py
 ```
+
+---
+
+Built by [Trango Compute](https://trango-compute.com)
