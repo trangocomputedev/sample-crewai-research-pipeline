@@ -45,6 +45,7 @@ editing_task = Task(
     agent=editor_agent,
     context=[writing_task],
     output_file="outputs/edited.md",
+    human_input=True,
 )
 
 seo_task = Task(
